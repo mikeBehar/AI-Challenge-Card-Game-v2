@@ -1,0 +1,31 @@
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Personal notes
+.notes/
+notes.private.md
+
+# Student data (NEVER commit student information)
+students/
+grades/
+*.xlsx
+*.csv
+
+# Draft materials not ready for publication
+drafts/
+scratch/

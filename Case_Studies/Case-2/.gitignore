@@ -1,0 +1,41 @@
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Node modules (if using any markdown processors)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+out/
+
+# Markdown preview files
+*.html.md
+preview/
+
+# Personal notes (if any)
+.notes/
+notes.private.md
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
