@@ -1,0 +1,68 @@
+# AI Challenge Card Game v2 - .gitignore
+
+# Instructor-only materials (keep private)
+instructor-notes-private/
+grading-keys-private/
+student-grades/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*~
+*.swp
+*.swo
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# Google Drive sync files
+.~lock.*
+*.gdoc~
+*.gsheet~
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+.project
+.settings/
+
+# Archive and backup folders
+archive/
+backup/
+old_versions/
+deprecated/
+
+# Large binary files (reference in README instead)
+# (Exception: small PDFs for distribution can be tracked)
+
+# Video and media files
+*.mp4
+*.mov
+*.avi
+*.wmv
+*.mp3
+
+# Compiled or generated files
+*.pyc
+__pycache__/
+*.class
+
+# Logs
+*.log
+logs/
+
+# Test files
+test_*.md
+scratch/
+sandbox/
+
+# Personal notes
+TODO-private.md
+NOTES-personal.md
